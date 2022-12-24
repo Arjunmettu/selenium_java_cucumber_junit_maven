@@ -5,28 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e166897-dc75-46d5-b503-8438ca871b4c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/simple-it/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/it/simple-it/verify.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MyMojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pb/cucumbertest/helper/BaseFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pb/cucumbertest/helper/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pb/cucumbertest/helper/GenericFuntions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pb/cucumbertest/helper/environment.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pb/cucumbertest/utils/ConfigUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pb/cucumbertest/utils/DatabaseUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pb/cucumbertest/utils/ExcelUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/pb/cucumbertest/utils/ScreenshotUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/registration.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +49,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="Cucumber Java.Scenario: Login scenarios">
     <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />

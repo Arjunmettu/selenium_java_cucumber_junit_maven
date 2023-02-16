@@ -44,3 +44,9 @@ examples :
 
 [//]: # (allure )
 https://stackoverflow.com/questions/36657321/after-installing-homebrew-i-get-zsh-command-not-found-brew
+
+[//]: # (jenkins)
+http://127.0.0.1:8080/
+
+[//]: # (github repo)ss
+https://github.com/Arjunmettu/selenium_java_cucumber_junit_maven.git
